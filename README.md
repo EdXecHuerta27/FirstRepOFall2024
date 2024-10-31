@@ -1,7 +1,5 @@
 # FirstRepOFall2024
-Testing 
-Test2 
-FirstProject One Using AI 
 
+Project 1 through 6 were done using GAI. 
 
-Friday Project 2 Using AI 
+This is for friday project 7 which is to show that we are commiting our changes and recieving practice.
